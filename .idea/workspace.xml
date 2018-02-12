@@ -18,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -184,11 +184,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518394976742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Now we go back to the third version at Feb 12">
+      <created>1518456200781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518456200782</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3821000" />
+    <option name="totallyTimeSpent" value="4493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -253,7 +260,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the final correct version. I still do not know how to revert directly on Github, sigh~" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the final correct version. I still do not know how to revert directly on Github, sigh~" />
+    <MESSAGE value="Now we go back to the third version at Feb 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now we go back to the third version at Feb 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -376,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
